@@ -1,0 +1,15 @@
+body
+{
+    background-image: url("../Images/index.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form
+{
+    position: absolute;
+    left: 70%;
+    top: 20%;
+    
+}
+
